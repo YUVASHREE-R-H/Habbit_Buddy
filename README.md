@@ -1,10 +1,16 @@
-# Habit Buddy
+# habbit_buddy
 
-Habit Buddy is a user-friendly app designed to help you build and track your daily habits with ease. Stay motivated with visual progress indicators and manage your habits efficiently through an engaging interface. Whether you're aiming to improve your productivity, health, or personal goals, Habit Buddy provides a simple and intuitive platform to support your journey.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-- Easy Habit Management:Track your daily habits with interactive checkboxes.
-- Visual Progress Overview: Monitor your progress through colorful UI
-- Engaging UI:Enjoy a clean, modern design that makes habit tracking enjoyable.
-- Performance Insights: Identify your top and worst-performing habits each week.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
